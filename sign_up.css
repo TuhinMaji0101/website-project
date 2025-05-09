@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #22508c;
+}
+.sign{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #99b1d1;
+    box-shadow: 5px 5px 5px 5px rgb(163, 158, 158);
+}
+.child{
+    position: relative;
+    top: 30px;
+    font-weight: 500;
+    font-size: 1.2rem;
+    border: 2px solid rgb(13, 143, 199);
+    border-radius: 5px;
+}
+h1{
+    color: white;
+}
+h5 {
+    color: white;
+}
